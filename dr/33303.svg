@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" width="36" viewBox="0 0 36 36" id="S_Clock_18_N_2x" height="36" data-name="S_Clock_18_N@2x"><defs><style>
+      .fill {
+        fill: #707070;
+      }
+
+      
+    </style></defs><path data-cppathid="10000" d="M18,2A16,16,0,1,0,34,18,16,16,0,0,0,18,2Zm0,30A14,14,0,1,1,32,18,14,14,0,0,1,18,32Z" class="fill"/><path data-cppathid="10001" d="M20,16.086V7a1,1,0,0,0-1-1H17a1,1,0,0,0-1,1V17.586a1,1,0,0,0,.293.707L21.9,23.9a1,1,0,0,0,1.415,0l1.335-1.336a1,1,0,0,0,0-1.414l-4.357-4.358A1,1,0,0,1,20,16.086Z" class="fill"/></svg>
